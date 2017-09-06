@@ -22,9 +22,9 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<appengine.app.version>1.9.23</appengine.app.version>
-		<appengine.target.version>1.9.23</appengine.target.version>
-		<appengine-maven-plugin-version>1.9.23</appengine-maven-plugin-version>
+		<appengine.app.version>1.9.55</appengine.app.version>
+		<appengine.target.version>1.9.55</appengine.target.version>
+		<appengine-maven-plugin-version>1.9.55</appengine-maven-plugin-version>
 	</properties>
 
 	<dependencies>
@@ -59,7 +59,7 @@
 			<plugin>
 				<groupId>com.google.cloud.tools</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
-				<version>1.9.23</version>
+				<version>1.9.55</version>
 			</plugin>
 		</plugins>
 	</build>
